@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Golos+Text:wght@400..900&family=Syncopate:wght@400;700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Golos Text", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+/* headingbg */
+.headbg{
+    background-color: #cfe7e5;
+    display: inline-block;
+    padding: 10px;
+    border-radius:0px 25px 25px 0px ;
+    text-align: center;
+}
+.txtcolor{
+    color:#213638;
+  }
+.bg{
+      background-color: #cfe7e5;
+}
+.navbar{
+    background-color: #cfe7e5;
+    color: #213638;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.inf{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.sl{
+    color:black;
+}
+.sl:hover{
+    color: gold;
+}
+.btb{
+    background-color:#213638;
+    color: white;
+    border: none;
+}
+.btb:hover{
+    background-color:#21363878;
+}
+.clo{
+    background-color: #213638;
+    border-radius: 20px;
+}
+.clo:focus{
+    background-color: #21363878;
+    color: white;
+}
+.js{
+    text-align: justify;
+}
+.pd{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+/* manage */
+.bv{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+       background-color:#cfe7e5 ;
+       color:#213638 ;
+       padding: 10px;
+       width: 50vw;
+   }
+.tb{
+    width: 70%;
+    margin-left: 50px;
+}
+.wd{
+    width: 50vw;
+}
+/* about */
+.ab{
+    width: 70%;
+    text-align: justify;
+}
+/* quick links */
+.linclo{
+    list-style-type: none;
+    color: #213638;
+    text-decoration: none;
+    
+}
+.linclo:hover{
+    color: white;
+}
+/*  booking form */
+.indes{
+    border-radius: 20px;
+    box-shadow: none !important;
+    border-bottom: 5px solid ;
+    border-color:#213638 ;
+    border-left: 5px solid #213638;
+    
+    /* border-top: 0.2px solid;
+    border-right: 0.2px solid; */
+}
+.indes:focus{
+    box-shadow: none !important;
+    border-bottom: 5px solid ;
+    border-color:#213638 ;
+    border-left: 5px solid #213638;
+}
+.formdesign{
+    background-color:#cfe7e5 ;
+}
